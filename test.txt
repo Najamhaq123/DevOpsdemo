@@ -1,3 +1,7 @@
+
 this is clne demo
 second branch
 third branch
+this is clone demo
+this is featureB file
+

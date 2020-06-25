@@ -1,1 +1,2 @@
-this is clne demo
+this is clone demo
+this is featureB file
